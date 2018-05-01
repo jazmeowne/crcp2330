@@ -23,7 +23,7 @@ M=0
 	@R3
 	M=D-1
 	@R0
-	D=MIT
+	D=M
 	@R2
 	M=D+M
 	@LOOP
